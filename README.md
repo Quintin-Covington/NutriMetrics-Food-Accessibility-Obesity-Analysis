@@ -1,4 +1,3 @@
-# NutriMetrics-Food-Accessibility-Obesity-Analysis
 # NutriMetrics: Food Accessibility and Obesity Analysis
 
 ## Project Overview
